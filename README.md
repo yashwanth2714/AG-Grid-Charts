@@ -1,4 +1,4 @@
-# ag-grid-charts
+# Ag-Grid-Charts
 
 ## Project setup
 ```
